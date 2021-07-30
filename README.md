@@ -9,3 +9,5 @@
 2. Use Unique ID given in the **Issue Tracker ID** in branch names.
 3. Use Hyphes as seperators.
 4. **Do not use long descriptive names in long lived branches**
+
+# Pushing a Commit
